@@ -27,7 +27,7 @@ scp .ssh/authorized_keys 192.168.10.54
 2. Изменение /etc/hosts
 hosts на entrypoint:
 ```
-127.0.0.1       tmpl-jn
+192.168.10.54   tmpl-jn
 192.168.10.22   tmpl-nn
 192.168.10.20   tmpl-dn-00
 192.168.10.21   tmpl-dn-01
